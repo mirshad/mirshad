@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammed Irshad Ul Haq 
 - 👀 I’m interested in Web Application Development. 
 - 🌱 I’m currently learning Vue.js 
-- 💞️ I’m looking to collaborate on Machine learning using python namaste 
+- 💞️ I’m looking to collaborate on Machine learning using python
 - 📫 How to reach me irshad125001@gmail.com
 
 <!---
